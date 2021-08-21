@@ -18,8 +18,8 @@ const Services = () => {
 
       <div className="box">
         <MdSecurity className="iconss" />
-        <h3>Cyber/Pentraion Testing </h3>
-        <p>Securing web application and finding vulnerability as well as
+        <h3>Cyber Security/Penetration Testing </h3>
+        <p>Securing web application and finding vulnerabilities as well as
            general ethical hacking has always been something i love doing,some of my 
            tools include Burpsuite, OwaspZap,Metasploit,Maltego etc.</p>
       </div>
@@ -28,7 +28,7 @@ const Services = () => {
         <IoIosBrush className="iconss" />
         <h3>Graphics Design</h3>
         <p>In my spare time, I try out my creativity with Graphic Designs 
-          and illustration using Photoshop, Adobe Light Room and Inkskape</p>
+          and illustrations using Photoshop and Inkskape</p>
       </div>
 
      
