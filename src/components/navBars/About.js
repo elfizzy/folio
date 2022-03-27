@@ -20,8 +20,8 @@ const About = () => {
 
       </div>
       <div className="disc">
-        <p>I'm an inquisitive Frontend Web Developer with a Degree in Computer Science who derives joy 
-          from building responsive web applications, making use of technologies such as React.js, Node.js, JavaScript
+        <p>I'm a Certified Cryptocurrency Investigator by day, an ethical hacker by night and web developer every other time using technologies which
+          include React.js, Nodejs and Javascript. 
         </p>
       </div>
       {/* <div className="boxing ">
