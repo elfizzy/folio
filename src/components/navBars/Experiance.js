@@ -21,8 +21,8 @@ export default function Experiance() {
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     icon={<FaBriefcase />}
      >
-    <h3 className="vertical-timeline-element-title">Certified Cryptocurrency Investigator | Digital Forensics Specialist, A&D Forensics</h3>
-    <h4 className="vertical-timeline-element-subtitle">No. 3 Rabat Street,Wuse Zone 6, Abuja,</h4>
+    <h3 className="vertical-timeline-element-title">Certified Cryptocurrency Investigator | Digital Forensics Specialist</h3>
+    <h4 className="vertical-timeline-element-subtitle">A&D Forensics, No. 3 Rabat Street,Wuse Zone 6, Abuja,</h4>
     <p>
     Investigating cryptocurrency related crime using tools such as Chainalysis Reactor, QLUE, Crystal blockchain, etc. as well as other forensics task's.
     </p>

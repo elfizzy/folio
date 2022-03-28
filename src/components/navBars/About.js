@@ -20,7 +20,7 @@ const About = () => {
 
       </div>
       <div className="disc">
-        <p>I'm a Certified Cryptocurrency Investigator by day, an ethical hacker by night and web developer every other time using technologies which
+        <p>I'm a Certified Cryptocurrency Investigator by day, an Ethical Hacker by night and a Web Developer every other time using technologies which
           include React.js, Nodejs and Javascript. 
         </p>
       </div>
