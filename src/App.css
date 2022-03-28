@@ -304,11 +304,11 @@ header nav ul li a.active{
   text-align: center;
   font-weight: lighter;
   border-radius: 5px;
-  color: white;
+  color: #03045e;
   cursor: pointer;
   text-transform: uppercase;
   background-color: #9ab9f7;
-  font-weight: lighter;
+  font-weight: bold;
 }
 .section2 p {
   font-size: 40px;
