@@ -21,7 +21,7 @@ const About = () => {
       </div>
       <div className="disc">
         <p>I'm a Certified Cryptocurrency Investigator by day, an Ethical Hacker by night and a Web Developer every other time using technologies which
-          include React.js, Nodejs and Javascript. 
+          include React.js, Nodejs and Javascript.
         </p>
       </div>
       {/* <div className="boxing ">

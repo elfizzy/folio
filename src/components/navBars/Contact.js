@@ -88,7 +88,7 @@ export default class Contact extends Component {
           <button type="submit">Submit</button>
       </form>
     </section>
-    <footer>Copyright <FaRegCopyright/> 2021 | Dcypher-Tech </footer>
+    <footer>Copyright <FaRegCopyright/> 2022 | Dcypher</footer>
         
       </>
     )
